@@ -248,6 +248,10 @@
         {
             "name": "shh_getMessages",
             "params": true
+        },
+        {
+            "name": "personal_newAccount",
+             "params": true
         }
     ]
 }
