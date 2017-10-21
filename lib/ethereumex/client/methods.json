@@ -251,7 +251,11 @@
         },
         {
             "name": "personal_newAccount",
-             "params": true
+            "params": true
+        },
+        {
+            "name": "personal_unlockAccount",
+            "params": true
         }
     ]
 }
